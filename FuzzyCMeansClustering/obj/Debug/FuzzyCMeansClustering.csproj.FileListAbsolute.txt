@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\FuzzyCMeansClustering\FuzzyCMeansClustering\bin\Debug\FuzzyCMeansClustering.exe
+C:\Users\HP\Desktop\FuzzyCMeansClustering\FuzzyCMeansClustering\bin\Debug\FuzzyCMeansClustering.pdb
+C:\Users\HP\Desktop\FuzzyCMeansClustering\FuzzyCMeansClustering\obj\Debug\FuzzyCMeansClustering.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\FuzzyCMeansClustering\FuzzyCMeansClustering\obj\Debug\FuzzyCMeansClustering.Form1.resources
+C:\Users\HP\Desktop\FuzzyCMeansClustering\FuzzyCMeansClustering\obj\Debug\FuzzyCMeansClustering.Properties.Resources.resources
+C:\Users\HP\Desktop\FuzzyCMeansClustering\FuzzyCMeansClustering\obj\Debug\FuzzyCMeansClustering.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\FuzzyCMeansClustering\FuzzyCMeansClustering\obj\Debug\FuzzyCMeansClustering.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FuzzyCMeansClustering\FuzzyCMeansClustering\obj\Debug\FuzzyCMeansClustering.exe
+C:\Users\HP\Desktop\FuzzyCMeansClustering\FuzzyCMeansClustering\obj\Debug\FuzzyCMeansClustering.pdb
